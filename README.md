@@ -1,3 +1,20 @@
+WebDev Session - Portfolio Site
+https://swapnilmmane.notion.site/WebDev-Session-Portfolio-Site-4c1f84db338f4f4eb94b8ad6657a9f47
+
+To pick up readymade editable components
+https://tailblocks.cc/
+
+Main tailwind site (to check out documentation and stuff)
+Tailwind CSS - https://tailwindcss.com/docs/guides/nextjs
+
+Deploy to open later
+Vercel - https://vercel.com/
+
+Webiny CMS - https://github.com/webiny/webiny-js/
+
+Prerequisite Enterprise Web Development Open Source Session
+https://swapnilmmane.notion.site/Prerequisite-Enterprise-Web-Development-Open-Source-Session-802fceeb72c94d388e7540285f6263f2 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -9,6 +26,17 @@ npm run dev
 # or
 yarn dev
 ```
+
+To run site
+in cmd
+......
+yarn dev run
+.....
+
+local location
+.........
+C:\workshop\ecommerce-chitkara
+.........
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
